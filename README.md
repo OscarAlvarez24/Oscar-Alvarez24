@@ -7,10 +7,20 @@ Mi objetivo: desarrollar tecnología que ayude a optimizar tareas.
 
 ---
 
-## 🔥 Sobre mí
+## Sobre mí
 - Actualmente aprendiendo C#  
 - Interesado en la IA y Robotica
 - Futuro desarrollador de tecnologías de IA
+- Guatemala 🇬🇹  
+
+---
+
+---
+
+## Contacto
+- Telefono:47217284 
+- Gmail: oscarorlandoalvarezalvarez23@gmail.com
+- Direccion:Barberena Santa Rosa
 - Guatemala 🇬🇹  
 
 ---
