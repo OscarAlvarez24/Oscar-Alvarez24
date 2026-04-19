@@ -2,7 +2,7 @@
 [15/4/2026] .: #  Hola, soy Oscar Alvarez  
 
 Estudiante de Ingeniería en Sistemas  
-Apasionado por la neurociencia y la tecnología  
+Apasionado por la IA y la tecnologías 
 Mi objetivo: desarrollar tecnología que ayude a optimizar tareas.
 
 ---
