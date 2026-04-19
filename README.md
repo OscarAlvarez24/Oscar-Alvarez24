@@ -1,5 +1,5 @@
 
-[10:28 a.m., 19/4/2026] .: #  Hola, soy Oscar Alvarez  
+[15/4/2026] .: #  Hola, soy Oscar Alvarez  
 
 Estudiante de Ingeniería en Sistemas  
 Apasionado por la neurociencia y la tecnología  
@@ -8,10 +8,10 @@ Mi objetivo: desarrollar tecnología que ayude a optimizar tareas.
 ---
 
 ## 🔥 Sobre mí
-- 📚 Actualmente aprendiendo C#  
-- 🧠 Interesado en el cerebro y la neurociencia  
-- 💡 Futuro desarrollador de tecnología médica  
-- 📍 Guatemala 🇬🇹  
+- Actualmente aprendiendo C#  
+- Interesado en la IA y Robotica
+- Futuro desarrollador de tecnologías de IA
+- Guatemala 🇬🇹  
 
 ---
 
